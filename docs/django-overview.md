@@ -14,4 +14,5 @@ Mục tiêu chính của Django là đơn giản hóa việc tạo các website 
 
 ## Nguồn
 http://guide.brite.vn/python/django/tong-quan-django/
+
 https://phocode.com/blog/2016/03/22/django-gioi-thieu/
